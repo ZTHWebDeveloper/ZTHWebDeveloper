@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZTHWebDeveloper&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 
