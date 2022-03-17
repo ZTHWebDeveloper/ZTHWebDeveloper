@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naung Naung</h1>
 <h3 align="center">A passionate Full Stack developer from Myanmar</h3>
 
-- 🔭 I’m currently working on **pv car rental**
+
 
 - 🌱 I’m currently learning **Laravel**
 
